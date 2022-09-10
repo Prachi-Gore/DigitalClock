@@ -8,7 +8,7 @@ body{
    justify-content: center; /*vertical shift*/
    background: url("https://images.unsplash.com/photo-1615412704911-55d589229864?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJlJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60");
    background-size:cover;
-   overflow: hidden; /*to see the change (there will be scroll bar in the right side)use scroll value instead of hidden */
+   overflow: scroll; /*to see the change (there will be scroll bar in the right side)use scroll value instead of hidden */
 
 }
 h2{
